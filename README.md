@@ -61,7 +61,7 @@
 * `cd Xteam`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
-* `sudo bash X.team.sh`
+* `sudo bash Xteam.sh`
   
 
 
